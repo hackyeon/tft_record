@@ -11,4 +11,6 @@
 ### 개발환경
 사용도구: Android Studio4.2.0, PostMan<br>
 사용언어: Kotlin1.5.20<br>
-버전관리: Git Hub
+버전관리: Git Hub<br>
+min api level: 23
+
