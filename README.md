@@ -21,8 +21,8 @@ min api level: 23
 키보드 검색 시 다운<br>
 검색 할 경우 키보드다운<br>
 // eidtText의 inputType을 text로 바꿔줘야 imeOption이 바뀐다 이거거때메 시간이 좀 걸림ㅠ<br>
-Retrofit baseUrl 설정 및 GET summoner 콜백 생성
-// base url이 소환사는 kr 전적은 asia 이렇게 바뀌는데 이거 알아보고 베이스 url 변경하는거 찾아보기
-okhttp 헤더 추가 및 인터셉터 완료
-현재 통신 완료 시 DataObject변수에 값을 넣어주고 MatchActivity가 그값을 사용하여 view를 그림
-DataObject에 넣어서 사용할지 intent로 데이터를 쏘는게 좋을지 고민중
+Retrofit baseUrl 설정 및 GET summoner 콜백 생성<br>
+// base url이 소환사는 kr 전적은 asia 이렇게 바뀌는데 이거 알아보고 베이스 url 변경하는거 찾아보기<br>
+okhttp 헤더 추가 및 인터셉터 완료<br>
+현재 통신 완료 시 DataObject변수에 값을 넣어주고 MatchActivity가 그값을 사용하여 view를 그림<br>
+DataObject에 넣어서 사용할지 intent로 데이터를 쏘는게 좋을지 고민중<br>
